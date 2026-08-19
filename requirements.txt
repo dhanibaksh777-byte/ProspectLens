@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+email-validator
+pydantic
+pydantic-settings
+python-dotenv
+groq
+resend
+twilio
+requests
+beautifulsoup4
+pwdlib[argon2]
+pyjwt
+slowapi

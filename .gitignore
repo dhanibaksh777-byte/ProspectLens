@@ -1,0 +1,45 @@
+# --- Environment & Secrets ---
+.env
+.env.local
+*.pem
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# --- Database ---
+*.db
+*.sqlite3
+
+# --- Node / Frontend (if any build tooling gets added later) ---
+node_modules/
+dist/
+build/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Local uploads / temp ---
+*.tmp
+tmp/
