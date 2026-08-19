@@ -11,7 +11,7 @@ AI-powered B2B lead generation tool — discovers real business leads (via OpenS
 ![All Leads](./Untitled2.png)
 
 **Search Jobs**
-![Search Jobs](./Untitled.png)
+![Search Jobs](./1.png)
 
 ## Features
 
